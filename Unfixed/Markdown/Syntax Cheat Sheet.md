@@ -27,22 +27,46 @@ Text Styles:
 |Highlight | Highlights very important words | `<mark>very important words</mark>`|
 |Footnotes | Declutters text with references | `[^1] or [^bignote] & [^0]:explaination `|
 
-Syntax Hightlighting and Code blocks [^2]
+Syntax Hightlighting and Code blocks [^2]:
 
 |Feature|Syntax|Output|
 |-------|------|------|
-Single Line Code | ` int z = 19; ` | int x = 19;
+Single Line Code | ` int z = 19; ` | int x = 19;|
 Multiline Code | ` use triple backticks ` | ``` test ``` |
 Syntax Highlighting with Language Specified | Add lanaguage after triple backticks | ``` use the list, js ```|
 
+Tables:
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+
+And table alignment:
+
+| Left-aligned | Center-aligned | Right-aligned |
+|:-------------|:--------------:|--------------:|
+| Data 1       |   Data 2       | Data 3        |
+| Data 4       |     Data 5     | Data 6        |
+
+Links:
+
+|Link Type | Description | Syntax | Output|
+|----------|-------------|--------|-------|
+|Inline Link | Used to link users to another page, displayed as blue hyperlinked words. | `[Link Text](https://www.google.org/)` | Link Text|
+|Reference Link | Used to link one information object to another, by providing some references to that new page. | `[Link Text] [reference text][reference text]: https://www.google.org/` | Link Text|
+|Relative Link | Shows the relationship between the current page’s URL and the linked page’s URL. | `[A relative Link] (rl.md)` | A relative Link|
+|Auto Link | Automatically converts URLs into clickable links. | `Visit https://www.google.org/` | Visit https://www.google.org/|
+
+Images, Gifs and Emojis [^3]:
 
 
 
 
 
 
-
-
+Footnotes:
+--------
 > ([^1]: Clarity.)
 SuperScript & Subscript:
 This is a ^superscript^

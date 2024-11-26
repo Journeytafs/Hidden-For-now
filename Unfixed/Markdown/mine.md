@@ -10,7 +10,7 @@ Uncovered:
 [Markdown Guide's Hacks](https://www.markdownguide.org/hacks/)
 [Markdown Guide's Tool's](https://www.markdownguide.org/tools/)
 [Narkdown Best Practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown?view=powershell-7.4)
-[ubstitute and only free for markdown in udemy](https://www.udemy.com/course/markdown-essentials/)
+[Substitute and only free for markdown in udemy](https://www.udemy.com/course/markdown-essentials/)
 
 
 
@@ -36,7 +36,6 @@ Covered:
 
 Rejected:
 [Coursera's "Learn Markdown" Course](https://www.coursera.org/learn/learn-markdown) reason Paid
-
 ["Markdown Mastery: Simple yet Powerful Writing Format" on Udemy](https://www.udemy.com/course/markdown-mastery/) Not found
 ["Mastering Markdown: From Basics to Beautiful Documents" on Udemy](https://www.udemy.com/course/mastering-markdown/) Not found
 
